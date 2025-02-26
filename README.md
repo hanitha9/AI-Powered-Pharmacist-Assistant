@@ -20,7 +20,7 @@ A multi-modal AI-based prescription assistant that enhances pharmacy workflows u
 **AI-Powered Pharmacist Assistant** is an intelligent solution designed to **interpret handwritten prescriptions accurately, validate drug safety, and prevent prescription fraud** using **multi-modal AI, blockchain, and augmented reality (AR)**.  
 
 📌 **Project Name:** AI-Powered Pharmacist Assistant  
-📌 **Participant Name:** Hanitha Rjaeswari Ganisetti  
+📌 **Participant Name:** Hanitha Rajeswari Ganisetti  
 📌 **GOC ID:** 134743605808   
 
 ---
